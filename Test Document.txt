@@ -7,8 +7,9 @@ Dit is een test zin 2
 Dit is een test zin 3
 
 
-<<<<<<< HEAD
-en deze hele zin komt overeen met test zin 5
-=======
 Deze hele zin behoort tot de test zin 4
->>>>>>> 2ed46064a6874cc82862eee853a254ee5de18c65
+
+en deze hele zin komt overeen met test zin 5
+
+
+
